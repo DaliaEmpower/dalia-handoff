@@ -1,0 +1,8 @@
+﻿Proyecto,Responsables,Inicio,Fin,Duración,Dependencias/Criticidad,Status
+1. Migración de Frontend (Gatsby a Next.js),"Alejandro, Faviola",Enero 2025,Marzo 2025,3 meses,Crítico: Base del monolito.,Not started
+2. Migración del Backend,"Mauricio, Itzel",Enero 2025,Abril 2025,4 meses,Crítico: Sin backend no hay escalabilidad.,Not started
+3. Reporte Rutas de Aprendizaje (B2B),"Carlos, Faviola",Enero 2025,Febrero 2025,2 meses,Criticidad Media: Mejora experiencia del cliente.,Not started
+4. Reporte DEI (B2B),"Faviola, Mauricio",Marzo 2025,Abril 2025,2 meses,Media: Herramienta ya desarrollada.,Not started
+5. Hackademy: Etapa 2,Hackademy,Enero 2025,Junio 2025,6 meses,Crítico: Centralización de datos.,Not started
+6. Reporte B2B para Ventas,"Mauricio, Faviola",Marzo 2025,Abril 2025,2 meses,Media: Diferente arquitectura.,Not started
+7. Revamp 5.1 de Dalia Empower,Equipos cross-funcionales,Enero 2025,Julio 2025,7 meses,Crítico: Escalabilidad y UX.,Not started
